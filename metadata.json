@@ -1,0 +1,5 @@
+{
+  "name": "WBC Style Bible Commentary",
+  "description": "Analyze Bible texts in the style of the Word Biblical Commentary (WBC). Generate comprehensive exegesis and download as a Word document.",
+  "requestFramePermissions": []
+}
